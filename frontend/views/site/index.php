@@ -8,6 +8,7 @@ $this->title = 'Home';
 
     <div class="jumbotron">
         <h1>PUCESE</h1>
+        <h6>Intranet</h6>
 
         <p class="lead">App Frontend</p>
 
